@@ -27,3 +27,11 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+// TODO: TopAppBar ->
+/*
+    MenuIcon
+    Text: CanvasEjemplo
+    Action: MoreVertIcon
+    background : Morado
+*/
